@@ -23,7 +23,6 @@
       }
     ],
     "tsconfig-paths-module-resolver"
-  ],
   "env": {
     "production": {
       "plugins": [
