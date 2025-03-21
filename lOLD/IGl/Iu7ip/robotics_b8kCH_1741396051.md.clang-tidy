@@ -1,4 +1,3 @@
----
 Checks: '
 bugprone-*,
 -bugprone-integer-division,
