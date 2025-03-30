@@ -27,7 +27,6 @@
     "production": {
       "plugins": [
         [
-          "styled-components",
           {
             "displayName": false
           }
